@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315.62 167.6">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 35.8px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        letter-spacing: 0.09em;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        letter-spacing: 0.15em;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: HelveticaNeue-Light, Helvetica Neue;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.04em;
+      }
+    </style>
+  </defs>
+  <title>web-assembly-logo-white</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Notch_-_White" data-name="Notch - White">
+      <text class="cls-1" transform="translate(0 156.68)">WE<tspan class="cls-2" x="62.79" y="0">B</tspan><tspan class="cls-3" x="93.37" y="0">ASSEMB</tspan><tspan class="cls-4" x="267.75" y="0">L</tspan><tspan class="cls-3" x="288.37" y="0">Y</tspan></text>
+      <g id="icon">
+        <polygon class="cls-5" points="174.19 67.39 171.08 81.38 180.76 81.38 177.19 67.39 174.19 67.39"/>
+        <path class="cls-5" d="M160.45,0a5.62,5.62,0,0,1,0,.58,12.34,12.34,0,0,1-12.34,12.34A12.33,12.33,0,0,1,135.79.58a5.62,5.62,0,0,1,0-.58H94.32V107.62H201.94V0ZM145.7,96.1l-5.25-25.93h-.09L134.71,96.1h-7.22L119.28,58h7.13l4.88,25.94h.09L137.26,58h6.67l5.28,26.26h.1L154.87,58h7l-9.08,38.1Zm39.26,0-2.43-8.48H169.72l-1.87,8.48h-7.17L169.9,58h11.25l11.21,38.1Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
