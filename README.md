@@ -8,8 +8,11 @@
 * [Link to Web Assembly logo contest](https://github.com/WebAssembly/design/issues/980#issuecomment-278086797)
 * [Link to Logo Presentation Repo](https://github.com/carlosbaraza/web-assembly-logo-presentation)
 
-# License
+## License
 The presented work is entirely Creative Commons licensed. Meaning that anyone could use it, as it is my will to distribute it free of charges.
 
 * [Full license](./LICENSE)
 * [Original proposal comment](https://github.com/WebAssembly/design/issues/112#issuecomment-258674675)
+
+## Font
+The font used for the logo is [Open Sans](https://fonts.google.com/specimen/Open+Sans). You might need to install the font in your local system to open the original `.ai` Adobe Illustrator design.
